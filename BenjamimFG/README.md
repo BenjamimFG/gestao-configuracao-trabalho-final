@@ -1,5 +1,9 @@
 # Trabalho final gestão de configuração
 
+## Changelog
+
+8acbd40: Adiciona ao README.md informações sobre variáveis de ambiente.
+
 ## Variáveis de Ambiente
 
 ### DB_CONNECTION
